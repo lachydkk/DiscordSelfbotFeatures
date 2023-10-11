@@ -1,0 +1,83 @@
+@import url(https://fonts.googleapis.com/css?family=Gabarito);
+@import url(https://fonts.googleapis.com/css?family=Pixelify+Sans);
+
+body {
+background-image: linear-gradient(to right top, #ff00ff, #e400fb, #c905f6, #ac0cf1, #8d12eb);
+}
+
+body {
+  text-align: center;
+}
+
+
+
+h1 {
+  font-family:"Pixelify Sans";
+  font-weight: normal;
+  line-height: 3;
+  font-size: 100px;
+  color: black;
+  text-align: center;
+}
+
+h4 {
+  text-align: left;
+}
+
+title {
+  font-family:"Pixelify Sans";
+  font-weight: normal;
+  line-height: 6;
+  font-size: 100px;
+  color: black;
+  text-align: center;
+}
+
+
+h6 {
+  font-family:"Pixelify Sans";
+  color: darkgray;
+  font-size: 28px;
+  margin-top: 0px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+
+
+h3 {
+  font-family:"Pixelify Sans";
+  color: white;
+  font-size: 28px;
+  margin-top: 0px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+h5 {
+  font-family:"Pixelify Sans";
+  color: white;
+  font-size: 28px;
+  margin-top: 0px;
+  margin-bottom: 30px;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+h2 {
+  font-family:"Pixelify Sans";
+  color: pink;
+  font-size: 28px;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
